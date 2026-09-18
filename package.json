@@ -19,7 +19,8 @@
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest",
-    "vite": "latest"
+    "vite": "latest",
+    "@zxing/browser": "^0.1.5"
   },
   "devDependencies": {
     "@types/qrcode": "latest",
